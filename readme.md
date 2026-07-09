@@ -138,3 +138,5 @@ This project helps beginners learn:
 ## 📜 License
 
 This project is created for educational and learning purposes only.
+
+## Hosted Link: html-ex-project-alpha.vercel.app

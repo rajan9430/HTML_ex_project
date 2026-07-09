@@ -131,7 +131,7 @@ This project helps beginners learn:
 
 ## 🎥 Project Video
   <video width="900" height="500" controls loop>
-    <source src="video/Project rec.mp4" type="video/mp4">
+    <source src="video/Project_rec.mp4" type="video/mp4">
   </video>
 
 
